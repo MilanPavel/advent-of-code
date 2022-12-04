@@ -1,0 +1,25 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Solutions for Advent of Code challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilanPavel/advent-of-code.git"
+  },
+  "keywords": [
+    "advent",
+    "of",
+    "code",
+    "typescript"
+  ],
+  "author": "Milan Pavel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MilanPavel/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/MilanPavel/advent-of-code#readme"
+}
