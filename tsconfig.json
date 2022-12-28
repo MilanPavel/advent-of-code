@@ -3,7 +3,8 @@
     "esModuleInterop": true,
     "types": [
       "node"
-    ]
+    ],
+    "target":"ES2018"
   }
 }
 
